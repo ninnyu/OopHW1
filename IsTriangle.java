@@ -7,7 +7,7 @@
  *			to be greater than the third. Make sure your output has some real and at 
  *			least one fake triangle.
  *	Reference: 	https://stackoverflow.com/questions/14845937/java-how-to-set-precision-for-double-value
-*/
+ */
 
 import java.math.*;
 import java.util.*;
