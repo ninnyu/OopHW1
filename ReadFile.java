@@ -1,7 +1,7 @@
 /*	Homework 1, Question 4
 	@author NinnYu Chin
-	Description: 	Reads user input from standard out, then
-	 				prints it back out.
+	Instruction: 	Feed a file that contains numbers into your program using command line 
+			redirection. Have your program read & print the file on the screen.
 */
 
 import java.util.*;
