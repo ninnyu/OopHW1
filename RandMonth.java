@@ -1,8 +1,7 @@
 /*	Homework 1, Question 3
 	@author NinnYu Chin
-	Description: 	Randomly generates a number between 1 and 12,
-					then prints to standard out the corresponding
-					name of the English month of that number. 
+	Instruction: 	Write a program that randomly generates an integer between 1 & 12, and 
+			displays the English name of that month. Run the program & show the output.
 */
 
 public class RandMonth {
