@@ -1,8 +1,8 @@
 /*	Homework 1, Question 3
-	@author NinnYu Chin
-	Instruction: 	Write a program that randomly generates an integer between 1 & 12, and 
-			displays the English name of that month. Run the program & show the output.
-*/
+ *	@author NinnYu Chin
+ *	Instruction: 	Write a program that randomly generates an integer between 1 & 12, and 
+ *			displays the English name of that month. Run the program & show the output.
+ */
 
 public class RandMonth {
 		public static void main (String args[]) {
