@@ -1,8 +1,8 @@
 /*	Homework 1, Question 4
-	@author NinnYu Chin
-	Instruction: 	Feed a file that contains numbers into your program using command line 
-			redirection. Have your program read & print the file on the screen.
-*/
+ *	@author NinnYu Chin
+ *	Instruction: 	Feed a file that contains numbers into your program using command line 
+ *			redirection. Have your program read & print the file on the screen.
+ */
 
 import java.util.*;
 
