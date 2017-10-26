@@ -4,7 +4,7 @@
  *			the formula PI*r^2. Use the pow function, and the PI constant in the Math 
  *			class. Pick your data types wisely. Exit when the user sends EOF (either 
  *			ctrl-d, or ctrl-z depending on your operating system). Show your output.
-*/
+ */
 
 import java.util.*;
 
