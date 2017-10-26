@@ -1,8 +1,12 @@
 /*	Homework 1, Question 5
 	@author NinnYu Chin
-	Description: 	Reads in points A, B, C and determines if the
-					connected points form a legitimate triangle.
-	Reference: https://stackoverflow.com/questions/14845937/java-how-to-set-precision-for-double-value
+	Instruction: 	Write a program that reads three 2D points A, B, and C from the user. 
+			Next, calculate the length of each side of the triangle using the 
+			distance formula: sqrt((x2-x1)^2+(y2-y1)^2). Finally, determine if it's a 
+			real triangle. For a triangle to be real, the sum of any two sides needs 
+			to be greater than the third. Make sure your output has some real and at 
+			least one fake triangle.
+	Reference: 	https://stackoverflow.com/questions/14845937/java-how-to-set-precision-for-double-value
 */
 
 import java.math.*;
