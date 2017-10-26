@@ -3,10 +3,10 @@ import java.util.*;
 
 /*	Homework 1, Question 6
 	@author NinnYu Chin
-	Description: 	Reads in the center of a circle and its radius.
-					Determines whether the circles are separate from 
-					each other, touching each other, overlapping each
-					other, or completely within one another.
+	Instruction: 	Write a program that prompts the user to enter the center coordinates and 
+			radiuses of two circles. Determine whether the circles are separate from 
+			each other, touching each other, overlapping each other, or completely 
+			within one another. Test each case and show the output.
 */
 
 public class WhereCircles {
